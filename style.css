@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin:0;
+    padding: 0;
+}
+
+header {
+    background: #2c3e50;
+}
+
+footer {
+    background: #2c3e50;
+    color: purple;
+    position: relative;
+}
+
+.card img {
+    height: 400px;
+    object-fit:scale-down;
+}
+
+#main-navbar{
+    background-color: palevioletred;
+}
+
+    
+#margin{
+    background-color: blueviolet;
+}
